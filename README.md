@@ -15,7 +15,8 @@ I'm Graduating in Software Engineering at <a href="https://www.fiap.com.br/onlin
 ### Find me elsewhere:
 <div>
   <a href="https://www.linkedin.com/in/joaovfraga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkein"></a>
-    <a href="https://www.instagram.com/joaovfraga/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"></a>
+  <a href="https://www.instagram.com/joaovfraga/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"></a>
+  <a href = "mailto:hello@joaofraga.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
   
