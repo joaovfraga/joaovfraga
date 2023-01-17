@@ -1,9 +1,7 @@
-<h2 align="center">Hello, I’m João Victor Fraga 👋🏼</h2>
+### Hello, I’m João 👋🏼
 
-<div> 
-    <a href = "mailto:hello@joaofraga.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/joaovfraga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/joaovfraga" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:hello@joaofraga.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+I'm a Software Developer born in Brazil and raised in between 27 countries.
 
+Graduating in Software Engineering at FIAP and already graduated from the Rocketseat bootcamp. In these bootcamp, I have dedicated myself to study: HTML, CSS, Javascript, React, Node, Bootstrap, Typescript, SQL, AWS and Git.
+
+I also like IOS Development. Now I'm learning Swift, SwiftUI and Xcode. 
