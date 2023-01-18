@@ -2,7 +2,7 @@
 
 I'm a Software Developer born in Brazil.
 
-I'm Graduating in Software Engineering at <a href="https://www.fiap.com.br/online/graduacao/bacharelado/engenharia-de-software/" target="_blank">FIAP</a> (bachelor's degree) and already graduated from the <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> Full Stack Web Development bootcamp. In these bootcamp, I have dedicated myself to study: HTML, CSS, Javascript, React, Node, Bootstrap, Typescript, SQL, AWS and Git. Also, I like IOS Development. That's why now I'm learning Swift, SwiftUI and Xcode. 
+I'm graduating in Software Engineering at <a href="https://www.fiap.com.br/online/graduacao/bacharelado/engenharia-de-software/" target="_blank">FIAP</a> (bachelor's degree) and already graduated from the <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> Full Stack Web Development bootcamp. In these bootcamp, I have dedicated myself to study: HTML, CSS, Javascript, React, Node, Bootstrap, Typescript, SQL, AWS and Git. Also, I like IOS Development. That's why now I'm learning Swift, SwiftUI and Xcode. 
 
 ### You can communicate with me in:
 🇧🇷 Portuguese (native language) <br>
