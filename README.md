@@ -10,6 +10,9 @@ I'm graduating in Software Engineering at <a href="https://www.fiap.com.br/onlin
 🇫🇷 Franch (intermediate)
 
 ### Technologies and Tools:
+dkgmfklgmfkdgm
+fmksdmgfklmdgklfd
+g,;lfdgmbfbfd
 
 
 ### Find me elsewhere:
