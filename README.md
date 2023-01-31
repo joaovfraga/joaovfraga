@@ -12,6 +12,9 @@ I'm graduating in Software Engineering at <a href="https://www.fiap.com.br/onlin
 ### Technologies and Tools:
 efijejge
 fgegege
+gekogkeg
+gemlgkeoklg
+gmelkgmkeg
 
 ### Find me elsewhere:
 <div>
