@@ -11,7 +11,7 @@ I'm graduating in Software Engineering at <a href="https://www.fiap.com.br/onlin
 
 ### Technologies and Tools:
 - HTML, CSS, JavaScript, React, NodeJS, Typescript
-- Swift, SwiftUI, Xcode gdfghtrhthrthrthth
+- Swift, SwiftUI, Xcode gdfghtrhthrthrthth rhttrjyjyjyjytjy. gndsjgjdrngijreg erghr
 
 ### Find me elsewhere:
 <div>
