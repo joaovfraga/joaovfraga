@@ -10,7 +10,7 @@ I'm graduating in Software Engineering at <a href="https://www.fiap.com.br/onlin
 🇫🇷 Franch (intermediate)
 
 ### Technologies and Tools:
-- HTML, CSS, JavaScript, React, NodeJS, Typescript, C#, .NET, ASP
+- HTML, CSS, JavaScript, React, NodeJS, Typescript
 - Swift, SwiftUI, Xcode
 
 ### Find me elsewhere:
