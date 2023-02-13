@@ -10,10 +10,9 @@ I'm graduating in Software Engineering at <a href="https://www.fiap.com.br/onlin
 🇫🇷 Franch (intermediate)
 
 ### Technologies and Tools:
-- HTML, CSS, JavaScript, React, NodeJS, Typescript dfhhd
+- HTML, CSS, JavaScript, React, NodeJS, Typescript 
 - Swift, SwiftUI, Xcode
-dfhdfhd 
-dhdfhfd fdghfh
+
 ### Find me elsewhere:
 <div>
   <a href="https://www.linkedin.com/in/joaovfraga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkein"></a>
