@@ -20,4 +20,6 @@ I'm graduating in Software Engineering at <a href="https://www.fiap.com.br/onlin
   <a href = "mailto:hello@joaofraga.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
+wgregregrehgerh gegre
   
