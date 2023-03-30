@@ -11,7 +11,7 @@ I'm graduating in Software Engineering at <a href="https://www.fiap.com.br/onlin
 
 ### Technologies and Tools:
 - HTML, CSS, JavaScript, Python, React, NodeJS, Typescript.
-- Git, Scrum, Kanban, Docker, Github.
+- Git, Docker, Scrum, Kanban, Github.
 
 ### Find me elsewhere:
 <div>
