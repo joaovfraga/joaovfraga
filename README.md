@@ -8,11 +8,6 @@ I'm graduating in Software Engineering at <a href="https://www.fiap.com.br/onlin
 - JavaScript, Python, React, NodeJS, Typescript.
 - SQL, SQLite, API RESTful, Git, Docker, Scrum, Github.
 
-- - JavaScript, Python, React, NodeJS, Typescript.
-- SQL, SQLite, API RESTful, Git, Docker, Scrum, Github.
-
-- - JavaScript, Python, React, NodeJS, Typescript.
-
 ### You can communicate with me in:
 🇧🇷 Portuguese (native language) <br>
 🇺🇸 English (advanced) <br>
