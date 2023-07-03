@@ -1,4 +1,4 @@
-### Hello, I’m João 👋🏼
+## Hello, I’m João 👋🏼
 
 I'm a Software Developer born in Brazil.
 
