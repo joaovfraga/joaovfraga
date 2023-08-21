@@ -13,11 +13,6 @@ I'm graduating in Software Engineering at <a href="https://www.fiap.com.br/onlin
 🇺🇸 English (advanced) <br>
 🇫🇷 French (intermediate)
 
-### You can communicate with me in:
-🇧🇷 Portuguese (native language) <br>
-🇺🇸 English (advanced) <br>
-🇫🇷 French (intermediate)
-
 ### Find me elsewhere:
 <div>
   <a href="https://www.linkedin.com/in/joaovfraga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkein"></a>
