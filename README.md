@@ -12,6 +12,10 @@ I'm graduating in Software Engineering at <a href="https://www.fiap.com.br/onlin
 🇧🇷 Portuguese (native language) <br>
 🇺🇸 English (advanced) <br>
 🇫🇷 French (intermediate)
+### You can communicate with me in:
+🇧🇷 Portuguese (native language) <br>
+🇺🇸 English (advanced) <br>
+🇫🇷 French (intermediate)
 
 ### Find me elsewhere:
 <div>
