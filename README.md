@@ -5,7 +5,7 @@ I'm a Software Developer born in Brazil.
 I'm graduating in Software Engineering at <a href="https://www.fiap.com.br/online/graduacao/bacharelado/engenharia-de-software/" target="_blank">FIAP</a> (bachelor's degree) and already graduated from the <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> Full Stack Web Development bootcamp. In this bootcamp, I have dedicated myself to study: HTML, CSS, Javascript, React, NodeJs, Typescript, Bootstrap, SASS, SQL, SQLite, AWS and Git.
 
 ### Technologies and Tools:
-- JavaScript, Python, React, NodeJS, Typescript.TypescriptTypes
+- JavaScript, Python, React, NodeJS, Typescript.Typescript
 - SQL, SQLite, API RESTful, Git, Scrum, Github.
 
 ### You can communicate with me in:
