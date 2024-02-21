@@ -6,7 +6,7 @@ I'm graduating in Software Engineering at <a href="https://www.fiap.com.br/onlin
 
 ### Technologies and Tools:
 - C++, Python, JavaScript, ReactJs, NodeJS.
-- SQL, SQLite, API RESTful, Scrum, Git, Github. GithubGithubGithubGithubGithu
+- SQL, SQLite, API RESTful, Scrum, Git, Github. GithubGithubGithu
 ### You can communicate with me in:
 🇧🇷 Portuguese (native language) <br>
 🇺🇸 English (advanced) <br>
