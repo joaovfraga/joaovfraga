@@ -6,7 +6,7 @@
         }
   </style>
 
-<div class="flex3">### Hello, I’m João 👋🏼  ![](https://komarev.com/ghpvc/?username=joaovfraga&color=orange)</div>
+<div class="flex3">### Hello, I’m João 👋🏼  ![](https://komarev.com/ghpvc/?username=joaovfraga&color=orange) </div>
 
 I'm a Software Developer born in Brazil.
 
