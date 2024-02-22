@@ -1,4 +1,4 @@
-<div>### Hello, I’m João 👋🏼  ![](https://komarev.com/ghpvc/?username=joaovfraga&color=orange) </div>
+### Hello, I’m João 👋🏼  ![](https://komarev.com/ghpvc/?username=joaovfraga&color=orange)
 
 I'm a Software Developer born in Brazil.
 
