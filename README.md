@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=joaovfraga)
+
 ### Hello, I’m João 👋🏼
 
 I'm a Software Developer born in Brazil.
