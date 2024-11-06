@@ -7,8 +7,8 @@ I'm a Software Developer born in Brazil.
 I'm graduating in Software Engineering at <a href="https://www.fiap.com.br/online/graduacao/bacharelado/engenharia-de-software/" target="_blank">FIAP</a> (bachelor's degree) and already graduated from the <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> Full Stack Web Development Bootcamp. I am dedicated to advancing my career in software engineering while balancing my passion for traveling, studying geopolitics, engaging in sports, indulging my love for reading, and maintaining professional responsibilities, all of which contribute to my well-rounded personal and professional growth.
 
 ### Technologies and Tools:
-- Python, JavaScript, TypeScript, R, ReactJs, NodeJS.
-- SQL, MySQL, PostgreSQL, AWS, API RESTful, Scrum, Git, Github. GithubGithubGithub
+- Python, JavaScript, Java, R, ReactJs, NodeJS.
+- SQL, MySQL, PostgreSQL, AWS, API RESTful, Scrum, Git, Github. GithubGi
 ### You can communicate with me in:
 🇧🇷 Portuguese (native language) <br>
 🇺🇸 English (advanced) <br>
