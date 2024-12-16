@@ -2,17 +2,11 @@
 
 ### Hello, I’m João 👋🏼 
 
-I'm a Software Developer born in Brazil.
+I am dedicated to advancing my career in software engineering while balancing my passion for traveling, studying geopolitics, engaging in sports, indulging my love for reading, and maintaining professional responsibilities, all of which contribute to my well-rounded personal and professional growth.
 
-I'm graduating in Software Engineering at <a href="https://www.fiap.com.br/online/graduacao/bacharelado/engenharia-de-software/" target="_blank">FIAP</a> (bachelor's degree) and already graduated from the <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> Full Stack Web Development Bootcamp. I am dedicated to advancing my career in software engineering while balancing my passion for traveling, studying geopolitics, engaging in sports, indulging my love for reading, and maintaining professional responsibilities, all of which contribute to my well-rounded personal and professional growth.
+Additionally, I love learning about new cultures, which led me to become fluent in English. Currently, I am also learning Spanish and French. I've had the opportunity to visit 28 countries and work in 7 of them. These experiences have significantly enhanced my ability to collaborate with people from diverse cultural backgrounds. 
 
-### Technologies and Tools:
-- Python, JavaScript, Java, R, ReactJs, NodeJS.
-- SQL, MySQL, PostgreSQL, AWS, API RESTful, Scrum, Git, Github. 
-### You can communicate with me in:
-🇧🇷 Portuguese (native language) <br>
-🇺🇸 English (advanced) <br>
-🇫🇷 French (intermediate)
+Please feel free to reach out if you have questions or want to discuss a specific topic :)
 
 ### Find me elsewhere:
 <div>
