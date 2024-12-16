@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=joaovfraga&color=green)
+![](https://komarev.com/ghpvc/?username=joaovfraga&color=darkgreen)
 
 ### Hello, I’m João 👋🏼 
 
