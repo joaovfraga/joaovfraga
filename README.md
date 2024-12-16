@@ -8,7 +8,7 @@ Additionally, I love learning about new cultures, which led me to become fluent 
 
 Please feel free to reach out if you have questions or want to discuss a specific topic :)
 
-## Find me elsewhere:
+#### Find me elsewhere:
 <div>
   <a href="https://www.joaofraga.com/" target="_blank"><img src="https://img.shields.io/badge/My%20Website-gray" alt="website"></a>
   <a href="https://www.linkedin.com/in/joaovfraga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230072b1" alt="linkein"></a>
