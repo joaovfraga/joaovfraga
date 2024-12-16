@@ -12,6 +12,7 @@ Please feel free to reach out at hello@joaofraga if you have questions or want t
 <div>
   <a href="https://www.joaofraga.com/" target="_blank"><img src="https://img.shields.io/badge/My%20Website-gray" alt="website"></a>
   <a href="https://www.linkedin.com/in/joaovfraga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230072b1" alt="linkein"></a>
-  <a href="https://www.instagram.com/joaovfraga/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E1306C" alt="instagram"></a>
   <a href = "mailto:hello@joaofraga.com"><img src="https://img.shields.io/badge/Email-gray" target="_blank"></a>  
+  <a href="https://www.instagram.com/joaovfraga/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E1306C" alt="instagram"></a>
+  <a href = "[mailto:hello@joaofraga.com](https://read.cv/joaovfraga)"><img src="https://img.shields.io/badge/Resume-gray" target="_blank"></a>  
 </div>
