@@ -6,7 +6,7 @@ I am dedicated to advancing my career in software engineering while balancing my
 
 Additionally, I love learning about new cultures, which led me to become fluent in English. Currently, I am also learning Spanish and French. I've had the opportunity to visit 28 countries and work in 7 of them. These experiences have significantly enhanced my ability to collaborate with people from diverse cultural backgrounds. 
 
-Please feel free to reach out if you have questions or want to discuss a specific topic :)
+Please feel free to reach out if you have questions or want to discuss a specific topic :) 
 
 ### Find me elsewhere:
 <div>
